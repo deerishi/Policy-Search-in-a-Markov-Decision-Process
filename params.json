@@ -1,0 +1,6 @@
+{
+  "name": "Policy-search-in-a-markov-decision-process",
+  "tagline": "Markov Decision Process, Value Iteration",
+  "body": "This code evaluates an optimal policy in a Markov Decision Process. We use a 3x3 Grid World with the Goal State at 3,3 with a reward of 10 and the rest of the non terminal states with a reward of -1.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
